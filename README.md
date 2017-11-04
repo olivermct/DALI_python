@@ -9,6 +9,7 @@ The code is for the game MasterMind, where the user can either break the code or
 Hello! Type b to break the code or m to make the code!
 > b
 
+
 Okay, what do you guess?
 > g b y o
 
@@ -16,46 +17,57 @@ r r
 
 Turn 2
 > r b y o
+
 r r 
 
 Turn 3
 > g b g o
+
 r 
 
 Turn 4
 > r b b o
+
 r w 
 
 Turn 5
 > b b y b
+
 r r r 
 
 Turn 6
 > b b y y
+
 r r w w 
 
 Turn 7
 > y b y b
+
 You win! Congratulations!
 Current score is you: 0, me: 7
 To play again, type b to break the code or m to make it.
 > m
 
+
 Turn 1
 I guess g, Y, o, o
 > r w
+
 
 Turn 2
 I guess g, r, r, Y
 > r r
 
+
 Turn 3
 I guess g, g, Y, Y
 > r r w
 
+
 Turn 4
 I guess g, b, g, Y
 > r r r r
+
 I win! Thanks for playing!
 Current score is you: 4, me: 7
 To play again, type b to break the code or m to make it.
