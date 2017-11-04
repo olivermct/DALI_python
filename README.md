@@ -11,6 +11,7 @@ Hello! Type b to break the code or m to make the code!
 
 Okay, what do you guess?
 > g b y o
+
 r r 
 
 Turn 2
