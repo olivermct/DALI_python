@@ -43,9 +43,7 @@ r r w w
 Turn 7
 > y b y b
 
-You win! Congratulations!
-Current score is you: 0, me: 7
-To play again, type b to break the code or m to make it.
+You win! Congratulations!  Current score is you: 0, me: 7  To play again, type b to break the code or m to make it.
 > m
 
 
